@@ -1,0 +1,27 @@
+/* Styling the body element
+   like body color and margin */
+   body{
+    background-color: rgb(124, 124, 124);
+    margin: 5%;
+}
+
+#main{
+    text-align: center;
+}
+
+img{
+    display: inline-block;
+    width: 40%;
+}
+
+
+/* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+#bio{
+    background-color: rgb(177, 177, 177);
+    box-shadow: 20px 20px 20px #dbdbdb;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 20%;
+    margin-top: 4%;
+}
